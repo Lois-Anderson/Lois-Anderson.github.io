@@ -1,8 +1,9 @@
 # Site settings
 title: Lois Anderson
-subtitle: 
+subtitle: PhD Student
 email: sigrun@marine.rutgers.edu
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+description: PHD STUDENT -- POLAR COASTAL PHYSICAL OCEANOGRAPHY
+RUTGERS UNIVERSITY, MARINE AND COASTAL SCIENCES
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
