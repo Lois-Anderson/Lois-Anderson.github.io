@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpeg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/20230825_152203.jpeg" alt="Hiking above Qeqertarsuaq, Kalaallit Nunaat" /></a>
 			<h3>About me</h3>
 			<p>Personal and educational background</p>
 			<ul class="actions">
@@ -17,7 +17,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="" />2024 COESSING instructor team in Lagos, Nigeria</a>
+			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="2024 COESSING instructor team in Lagos, Nigeria" /></a>
 			<h3>Capacity building</h3>
 			<p>Ocean science capacity building efforts in Nigeria & Ghana</p>
 			<ul class="actions">
@@ -25,7 +25,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="" />2024 COESSING instructor team in Lagos, Nigeria</a>
+			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="2024 COESSING instructor team in Lagos, Nigeria" /></a>
 			<h3>Teaching</h3>
 			<p>Teaching</p>
 			<ul class="actions">
@@ -33,7 +33,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/IMG_0364.HEIC" alt="" />Research cruise to Xeitl' Sit, Alaska</a>
+			<a href="#" class="image"><img src="assets/images/" alt="Paddling a small boat with a dead motor at Xeitl' Sit, Alaska" /></a>
 			<h3>Fieldwork</h3>
 			<p>Fieldwork</p>
 			<ul class="actions">
