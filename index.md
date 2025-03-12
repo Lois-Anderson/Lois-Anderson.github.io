@@ -33,7 +33,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/" alt="Paddling a small boat with a dead motor at Xeitl' Sit, Alaska" /></a>
+			<a href="#" class="image"><img src="assets/images/RiffRaft_paddling.jpeg" alt="Paddling a small boat with a dead motor at Xeitl' Sit, Alaska" /></a>
 			<h3>Fieldwork</h3>
 			<p>Fieldwork</p>
 			<ul class="actions">
