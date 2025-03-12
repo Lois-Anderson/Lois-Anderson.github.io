@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pic01.jpeg" alt="" /></a>
 			<h3>About me</h3>
 			<p>Personal and educational background</p>
 			<ul class="actions">
