@@ -16,14 +16,14 @@ layout: default
 				<li><a href="#" class="button">About me</a></li>
 			</ul>
 		</article>
-		<article>
+<!-- 		<article>
 			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="2024 COESSING instructor team in Lagos, Nigeria" /></a>
 			<h3>Capacity building</h3>
 			<p>Ocean science capacity building efforts in Nigeria & Ghana</p>
 			<ul class="actions">
 				<li><a href="#" class="button">Capacity building</a></li>
 			</ul>
-		</article>
+		</article> -->
 		<article>
 			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="2024 COESSING instructor team in Lagos, Nigeria" /></a>
 			<h3>Teaching</h3>
@@ -33,19 +33,19 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/RiffRaft_paddling.jpeg" alt="Paddling a small boat with a dead motor at Xeitl' Sit, Alaska" /></a>
-			<h3>Fieldwork</h3>
-			<p>Fieldwork</p>
-			<ul class="actions">
-				<li><a href="#" class="button">Fieldwork</a></li>
-			</ul>
-		</article>
-		<article>
 			<a href="#" class="image"><img src="assets/images/Iluliaq.jpeg" alt="" /></a>
 			<h3>Research</h3>
 			<p>Research</p>
 			<ul class="actions">
 				<li><a href="#" class="button">Research</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="#" class="image"><img src="assets/images/RiffRaft_paddling.jpeg" alt="Paddling a small boat with a dead motor at Xeitl' Sit, Alaska" /></a>
+			<h3>Fieldwork</h3>
+			<p>Fieldwork</p>
+			<ul class="actions">
+				<li><a href="#" class="button">Fieldwork</a></li>
 			</ul>
 		</article>
 		<article>
