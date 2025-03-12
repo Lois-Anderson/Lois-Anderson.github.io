@@ -17,7 +17,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Lagos_instructors_2024.jpeg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="" />2024 COESSING instructor team in Lagos, Nigeria</a>
 			<h3>Capacity building</h3>
 			<p>Ocean science capacity building efforts in Nigeria & Ghana</p>
 			<ul class="actions">
@@ -25,7 +25,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Lagos2024.jpeg" alt="" />2024 COESSING instructor team in Lagos, Nigeria</a>
 			<h3>Teaching</h3>
 			<p>Teaching</p>
 			<ul class="actions">
