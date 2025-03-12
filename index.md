@@ -17,7 +17,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Lagos2024.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Lagos_instructors_2024.jpeg" alt="" /></a>
 			<h3>Capacity building</h3>
 			<p>Ocean science capacity building efforts in Nigeria & Ghana</p>
 			<ul class="actions">
@@ -41,7 +41,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Iluliaq.jpeg" alt="" /></a>
 			<h3>Research</h3>
 			<p>Research</p>
 			<ul class="actions">
@@ -49,7 +49,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Denali_trip_2021.jpeg" alt="" /></a>
 			<h3>Outdoor recreation</h3>
 			<p>Outdoor recreation</p>
 			<ul class="actions">
