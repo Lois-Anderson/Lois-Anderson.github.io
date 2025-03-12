@@ -49,7 +49,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Denali_trip_2021.jpeg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Denali_trip_2021.jpg" alt="" /></a>
 			<h3>Outdoor recreation</h3>
 			<p>Outdoor recreation</p>
 			<ul class="actions">
