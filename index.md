@@ -33,7 +33,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Iluliaq.jpeg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/schematic.png" alt="Salinity variance budget for ROMS and ROMSICEPLUME" /></a>
 			<h3>Research</h3>
 			<p>Research</p>
 			<ul class="actions">
