@@ -9,11 +9,11 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/20230825_152203.jpeg" alt="Hiking above Qeqertarsuaq, Kalaallit Nunaat" /></a>
+			<a href="'about_me.html' | absolute_url" class="image"><img src="assets/images/20230825_152203.jpeg" alt="Hiking above Qeqertarsuaq, Kalaallit Nunaat" /></a>
 			<h3>About me</h3>
 			<p>Personal and educational background</p>
 			<ul class="actions">
-				<li><a href="#" class="button">About me</a></li>
+				<li><a href="'about_me.html' | absolute_url" class="button">About me</a></li>
 			</ul>
 		</article>
 <!-- 		<article>
