@@ -7,18 +7,20 @@ COESSING is an annual, week-long, interdisciplinary summer program in West Afric
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/Lagos2022.jpg" alt="instructor team for the 2022 program in Lagos" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/Lagos2022.jpg" alt="instructor team for the 2022 program in Lagos" /></span></div height="200">
     <div class="4u"><span class="image fit"><img src="assets/images/Accra2023.jpg" alt="women in the Python and Physical Oceanography groups at the 2023 program in Accra" /></span></div>
     <div class="4u$"><span class="image fit"><img src="assets/images/Lagos2024.jpeg" alt="instructor team for the 2024 program in Lagos" /></span></div>
   </div>
 </div>
 
-#### Physical Oceanography Instructor, University of Ghana, Ghana, 2025 (UPCOMING)
-#### Physical Oceanography Instructor, University of Lagos, Nigeria, 2024 (1 week)
-#### Physical Oceanography Instructor, University of Ghana, Ghana, 2023 (1 week)
-#### Organizer and Lecturer for the Virtual COESSING 2023 (1 week)
-#### Instructor, University of Lagos, Nigeria, 2022 (1 week)
+#### Python/Physical Oceanography Instructor, University of Ghana, Ghana, 2025 (UPCOMING)
+#### Python/Physical Oceanography Instructor, University of Lagos, Nigeria, 2024 (1 week)
+#### Python/Physical Oceanography Instructor, University of Ghana, Ghana, 2023 (1 week)
 
+#### Lecturer for the Virtual COESSING 2023 (1 week)
+Gave a lecture entitled "The Physics of Estuaries" covering fundamentals of estuarine circulation and different behaviors of dissolved and particulate pollutants in shallow estuaries. Coordinated Google Jamboard discussions about the importance of estuaries in Ghana. I served as an organizer and moderator for the virtual program.
+#### Instructor, University of Lagos, Nigeria, 2022 (1 week)
+Assissted with Python tutorials in a TA-like capacity. Helped troubleshoot Anaconda installations, environment setup, and Jupyter notebook activites. Met with a handful of participants on an individual basis to recreate their own publication figures in Python. This was before COESSING shifted to project-based learning. 
 ## Rutgers University
 #### Teaching Assistant for Introduction to Physical Oceanography (graduate course), Fall 2022
 #### Guest Lecture for Introduction to Ocean Modeling, Fall 2022
