@@ -7,7 +7,7 @@ COESSING is an annual, week-long, interdisciplinary summer program in West Afric
 
 <div class="box alt">
   <div class="row 30% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/Lagos2022.jpg" alt="instructor team for the 2022 program in Lagos" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/Lagos2022.jpeg" alt="instructor team for the 2022 program in Lagos" /></span></div>
     <div class="4u"><span class="image fit"><img src="assets/images/Accra2023.jpg" alt="women in the Python and Physical Oceanography groups at the 2023 program in Accra" /></span></div>
     <div class="4u$"><span class="image fit"><img src="assets/images/Lagos2024.jpeg" alt="instructor team for the 2024 program in Lagos" /></span></div>
   </div>
