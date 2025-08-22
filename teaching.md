@@ -18,7 +18,7 @@ Gave an "Intro to Ocean Modeling" lecture and lead several Jupyter Notebook/Goog
 #### Python/Physical Oceanography Instructor, University of Lagos, Nigeria, 2024 (1 week)
 Gave a series of introductory Python tutorials as a part of our group's "Python bootcamp." Lead a project for a small group (following the Python bootcamp) which examines the frequency content of tide gauge records around West Africa. I served as the 2024 Physical Oceanography track lead (lead meetings, oversaw curriculum).
 #### Python/Physical Oceanography Instructor, University of Ghana, Ghana, 2023 (1 week)
-Lead a project for a small group which consisted of several GFD whiteboard lessons and running Python OpenDrift simulations of buoyant particles (e.g. plastics) with and without Stokes' Drift enabled in the model. I was a memeber of the COESSING 2023 organizing committee. 
+Lead a project for a small group which consisted of several GFD whiteboard lessons and running Python OpenDrift simulations of buoyant particles (e.g. plastics) with and without Stokes' Drift enabled in the model. I was a member of the COESSING 2023 organizing committee. 
 #### Lecturer for the Virtual COESSING 2023 (1 week)
 Gave a lecture entitled "The Physics of Estuaries" covering fundamentals of estuarine circulation and different behaviors of dissolved and particulate pollutants in shallow estuaries. Coordinated Google Jamboard discussions about the importance of estuaries in Ghana. I served as an organizer and moderator for the virtual program.
 #### Instructor, University of Lagos, Nigeria, 2022 (1 week)
