@@ -13,10 +13,12 @@ COESSING is an annual, week-long, interdisciplinary summer program in West Afric
   </div>
 </div>
 
-#### Python/Physical Oceanography Instructor, University of Ghana, Ghana, 2025 (UPCOMING)
+#### Python/Physical Oceanography Instructor, University of Ghana, Ghana, 2025 (1 week)
+Gave an "Intro to Ocean Modeling" lecture and lead several Jupyter Notebook/Google Colab notebook tutorials for exploring ROMS model output of the Gulf of Guinea (model developed by John Wilkin and Elias Hunter at Rutgers), for a large group. Ahead of the summer school, I organized a brief Python bootcamp over Zoom and lead an intro-to-Xarray tutorial. I served as the 2025 Physical Oceanography track lead (lead meetings, oversaw curriculum and admissions).
 #### Python/Physical Oceanography Instructor, University of Lagos, Nigeria, 2024 (1 week)
+Gave a series of introductory Python tutorials as a part of our group's "Python bootcamp." Lead a project for a small group (following the Python bootcamp) which examines the frequency content of tide gauge records around West Africa. I served as the 2024 Physical Oceanography track lead (lead meetings, oversaw curriculum).
 #### Python/Physical Oceanography Instructor, University of Ghana, Ghana, 2023 (1 week)
-
+Lead a project for a small group which consisted of several GFD whiteboard lessons and running Python OpenDrift simulations of buoyant particles (e.g. plastics) with and without Stokes' Drift enabled in the model. I was a memeber of the COESSING 2023 organizing committee. 
 #### Lecturer for the Virtual COESSING 2023 (1 week)
 Gave a lecture entitled "The Physics of Estuaries" covering fundamentals of estuarine circulation and different behaviors of dissolved and particulate pollutants in shallow estuaries. Coordinated Google Jamboard discussions about the importance of estuaries in Ghana. I served as an organizer and moderator for the virtual program.
 #### Instructor, University of Lagos, Nigeria, 2022 (1 week)
